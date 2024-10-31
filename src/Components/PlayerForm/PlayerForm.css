@@ -4,7 +4,9 @@
     justify-content: center;
     align-items: center;
     height: 98vh;
-}
+    background-image: url('https://www.free80sarcade.com/wp-content/uploads/2020/11/image-11.png');
+    background-size: contain;
+}   
 
 .form-container{
     display: flex;
