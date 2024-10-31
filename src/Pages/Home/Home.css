@@ -1,0 +1,21 @@
+
+
+.p-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: rgb(42, 159, 255);
+    padding: 20px;
+}
+
+.p-container span{
+     text-align: center;
+     color: white;
+}
+
+.logo{
+    font-size: 100px;
+    border: 5px solid white;
+    border-radius: 50%;
+}

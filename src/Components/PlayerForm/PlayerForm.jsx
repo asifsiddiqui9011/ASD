@@ -33,14 +33,14 @@ const PlayerForm = () => {
 
         <span>
           <select className="form-selector" name="gender" id="gender"  onChange={changeHandler}>
-            <option value="">Select Gender</option>
+            <option >Select Gender</option>
             <option value="Male">Male</option>
             <option value="Female">Female</option>
             <option value="Other">Others</option>
           </select>
         </span>
     
-        <button className="submit-btn">Submit</button>
+        <button className="submit-btn">Play</button>
      
 
       </form>
