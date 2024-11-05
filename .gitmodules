@@ -1,0 +1,3 @@
+[submodule "React-Memory-Game"]
+	path = React-Memory-Game
+	url = https://github.com/donaldafeith/React-Memory-Game.git
